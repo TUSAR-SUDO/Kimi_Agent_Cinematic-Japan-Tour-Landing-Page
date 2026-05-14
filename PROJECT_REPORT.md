@@ -146,7 +146,7 @@ src/
 
 ### 5.1 Hero Section — Layered Parallax Composition
 
-![Hero Section — 7-layer parallax composition with JAPAN typography behind mountains](C:/Users/mahak/.gemini/antigravity/brain/f512fc88-0876-4f87-be28-0ab1d0e5175f/artifacts/report_hero.png)
+![Hero Section — 7-layer parallax composition with JAPAN typography behind mountains](./screenshots/img1.png)
 
 The hero section is the visual centerpiece — a **7-layer parallax composition** where the word "JAPAN" in outlined display type appears to stand behind a misty mountain landscape.
 
@@ -170,7 +170,7 @@ The hero section is the visual centerpiece — a **7-layer parallax composition*
 
 ### 5.2 About the Tour — Timeline Stagger Reveal
 
-![About Section — Viewport-triggered timeline with staggered city reveals](C:/Users/mahak/.gemini/antigravity/brain/f512fc88-0876-4f87-be28-0ab1d0e5175f/artifacts/report_about.png)
+![About Section — Viewport-triggered timeline with staggered city reveals](./screenshots/img2.png)
 
 The timeline presents the 10-day itinerary across three cities. Each city cluster triggers independently as it enters the viewport:
 
@@ -187,7 +187,7 @@ Each city includes a **PhotoCluster** component — two stacked images with a sl
 
 ### 5.3 What's Included — Glass Card Grid
 
-![What's Included — Glassmorphism bento grid with staggered entry](C:/Users/mahak/.gemini/antigravity/brain/f512fc88-0876-4f87-be28-0ab1d0e5175f/artifacts/report_included.png)
+![What's Included — Glassmorphism bento grid with staggered entry](./screenshots/img3.png)
 
 Four glass-morphism cards in a responsive grid layout (1 column on mobile → 4 on desktop), each describing a tour inclusion:
 
@@ -204,7 +204,7 @@ Four glass-morphism cards in a responsive grid layout (1 column on mobile → 4 
 
 ### 5.4 Contact Section — Frosted Form Panel
 
-![Contact Section — Glassmorphism form over cherry blossom Mount Fuji backdrop](C:/Users/mahak/.gemini/antigravity/brain/f512fc88-0876-4f87-be28-0ab1d0e5175f/artifacts/report_contact.png)
+![Contact Section — Glassmorphism form over cherry blossom Mount Fuji backdrop](./screenshots/img4.png)
 
 A full-viewport contact section featuring Mount Fuji framed by cherry blossoms. The inquiry form sits inside a frosted glass panel (`blur(24px)`) positioned on the left third of the viewport.
 
@@ -216,7 +216,7 @@ A full-viewport contact section featuring Mount Fuji framed by cherry blossoms. 
 
 ### 5.5 Navigation & Footer
 
-![Footer with site navigation and social links](C:/Users/mahak/.gemini/antigravity/brain/f512fc88-0876-4f87-be28-0ab1d0e5175f/artifacts/report_footer.png)
+![Footer with site navigation and social links](./screenshots/img5.png)
 
 **Navigation:** Fixed-position sticky nav with scroll-dependent styling:
 - Transparent on hero (blends with scene)
